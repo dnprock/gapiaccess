@@ -2,3 +2,4 @@ cffi
 flask-restful
 gcloud
 newrelic
+gspread

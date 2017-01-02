@@ -1,0 +1,4 @@
+cffi
+flask-restful
+gcloud
+newrelic
